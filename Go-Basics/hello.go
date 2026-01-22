@@ -5,5 +5,15 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 
-	types()
+	//types()
+
+    //typeConv()
+
+    //loop()
+
+    //operators()
+
+    //conditional()
+
+    arrays()
 }
