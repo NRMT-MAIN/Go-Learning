@@ -15,5 +15,9 @@ func main() {
 
     //conditional()
 
-    arrays()
+    //arrays()
+
+    //slices()
+
+    maps()
 }
