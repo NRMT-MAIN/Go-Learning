@@ -19,5 +19,9 @@ func main() {
 
     //slices()
 
-    maps()
+    //maps()
+
+    //rangeExample()
+
+    funcExample()
 }
