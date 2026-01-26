@@ -23,5 +23,9 @@ func main() {
 
     //rangeExample()
 
-    funcExample()
+    //funcExample()
+
+    //deferExample()
+
+    panicExample()
 }
