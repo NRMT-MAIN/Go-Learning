@@ -27,5 +27,7 @@ func main() {
 
     //deferExample()
 
-    panicExample()
+    //panicExample()
+
+    process2()
 }
