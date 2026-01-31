@@ -24,7 +24,11 @@ func main() {
 	// 	fmt.Println("Running Total after adding", i, ":", sumFunc(i))
 	// }
 
-	fmt.Println(factorial(5))
-	fmt.Println(sumOfDigits(12345))
-	fmt.Println(fibonacci(7))
+	// fmt.Println(factorial(5))
+	// fmt.Println(sumOfDigits(12345))
+	// fmt.Println(fibonacci(7))
+
+	//pointerExample()
+
+	string_runes()
 }
