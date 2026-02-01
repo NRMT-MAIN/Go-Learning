@@ -30,5 +30,9 @@ func main() {
 
 	//pointerExample()
 
-	string_runes()
+	//string_runes()
+
+	//formattingVerb()
+
+	fmtPackageExample()
 }
