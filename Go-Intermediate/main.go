@@ -34,5 +34,7 @@ func main() {
 
 	//formattingVerb()
 
-	fmtPackageExample()
+	//fmtPackageExample()
+
+	structsExample()
 }
