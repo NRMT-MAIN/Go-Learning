@@ -36,5 +36,7 @@ func main() {
 
 	//fmtPackageExample()
 
-	structsExample()
+	//structsExample()
+
+	interfaceExample()
 }
