@@ -38,5 +38,9 @@ func main() {
 
 	//structsExample()
 
-	interfaceExample()
+	//interfaceExample()
+
+	//genericsExample()
+
+	errorExample()
 }
