@@ -42,5 +42,9 @@ func main() {
 
 	//genericsExample()
 
-	errorExample()
+	//errorExample()
+
+	//customErrorExample()
+
+	stringExample()
 }
