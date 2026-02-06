@@ -46,5 +46,9 @@ func main() {
 
 	//customErrorExample()
 
-	stringExample()
+	//stringExample()
+
+	//sfExample()
+
+	textTemplateExample()
 }
