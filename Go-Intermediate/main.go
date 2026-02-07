@@ -50,5 +50,9 @@ func main() {
 
 	//sfExample()
 
-	textTemplateExample()
+	//textTemplateExample()
+
+	//regexExample()
+
+	timeExample()
 }
