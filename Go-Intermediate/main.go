@@ -54,5 +54,9 @@ func main() {
 
 	//regexExample()
 
-	timeExample()
+	//timeExample()
+
+	//epochExample()
+
+	timeFormattingExample()
 }
