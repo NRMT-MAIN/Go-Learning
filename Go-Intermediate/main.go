@@ -58,5 +58,9 @@ func main() {
 
 	//epochExample()
 
-	timeFormattingExample()
+	//timeFormattingExample()
+
+	//randExample()
+
+	numberParsingExample()
 }
