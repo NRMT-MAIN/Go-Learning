@@ -62,5 +62,9 @@ func main() {
 
 	//randExample()
 
-	numberParsingExample()
+	//numberParsingExample()
+
+	//urlParsingExample()
+
+	bufioExample()
 }
