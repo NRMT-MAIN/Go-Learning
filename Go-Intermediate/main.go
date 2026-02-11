@@ -66,5 +66,9 @@ func main() {
 
 	//urlParsingExample()
 
-	bufioExample()
+	//bufioExample()
+
+	//encodingExample()
+
+	hashingExample()
 }
