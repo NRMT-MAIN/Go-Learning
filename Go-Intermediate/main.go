@@ -72,5 +72,7 @@ func main() {
 
 	//hashingExample()
 
-	encryptionExample()
+	//encryptionExample()
+
+	fileExample()
 }
