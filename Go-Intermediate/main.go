@@ -74,5 +74,7 @@ func main() {
 
 	//encryptionExample()
 
-	fileExample()
+	//fileExample()
+
+	cmdArgExample()
 }
