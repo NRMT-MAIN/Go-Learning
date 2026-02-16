@@ -76,5 +76,7 @@ func main() {
 
 	//fileExample()
 
-	cmdArgExample()
+	//cmdArgExample()
+
+	subCommandExample()
 }
