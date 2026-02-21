@@ -78,5 +78,7 @@ func main() {
 
 	//cmdArgExample()
 
-	subCommandExample()
+	//subCommandExample()
+
+	envVarExample()
 }
