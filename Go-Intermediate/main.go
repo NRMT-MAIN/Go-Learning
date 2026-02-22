@@ -80,5 +80,8 @@ func main() {
 
 	//subCommandExample()
 
-	envVarExample()
+	//envVarExample()
+
+	loggingExample()
+
 }
