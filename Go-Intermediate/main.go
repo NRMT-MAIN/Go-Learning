@@ -84,6 +84,8 @@ func main() {
 
 	//loggingExample()
 
-	JsonExample()
+	//JsonExample()
+
+	xmlExample()
 
 }
