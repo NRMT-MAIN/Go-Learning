@@ -86,6 +86,8 @@ func main() {
 
 	//JsonExample()
 
-	xmlExample()
+	//xmlExample()
+
+	typeConversionExample()
 
 }
