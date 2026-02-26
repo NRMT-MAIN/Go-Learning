@@ -88,6 +88,8 @@ func main() {
 
 	//xmlExample()
 
-	typeConversionExample()
+	//typeConversionExample()
+
+	ioExample()
 
 }
