@@ -5,5 +5,7 @@ func main() {
 
 	//channelsExample()
 
-	contextExample()
+	//contextExample()
+
+	timerExample()
 }
