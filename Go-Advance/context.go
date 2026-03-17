@@ -6,7 +6,7 @@ import (
 	"time"
 )
 
-func worker(ctx context.Context , id int) {
+func workers(ctx context.Context , id int) {
 	for {
 		select {
 		case <-ctx.Done() :

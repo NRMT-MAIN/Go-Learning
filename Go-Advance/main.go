@@ -7,5 +7,7 @@ func main() {
 
 	//contextExample()
 
-	timerExample()
+	//timerExample()
+
+	workerPoolExample()
 }
