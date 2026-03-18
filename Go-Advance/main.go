@@ -9,5 +9,7 @@ func main() {
 
 	//timerExample()
 
-	workerPoolExample()
+	//workerPoolExample()
+
+	waitGroupsExample()
 }
