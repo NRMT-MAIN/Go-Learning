@@ -11,5 +11,7 @@ func main() {
 
 	//workerPoolExample()
 
-	waitGroupsExample()
+	//waitGroupsExample()
+
+	mutexExample()
 }
