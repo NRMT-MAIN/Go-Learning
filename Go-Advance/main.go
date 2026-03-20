@@ -15,5 +15,7 @@ func main() {
 
 	//mutexExample()
 
-	tockenBucketExample()
+	//tockenBucketExample()
+
+	fixWindowCounter()
 }
