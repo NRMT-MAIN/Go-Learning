@@ -13,5 +13,7 @@ func main() {
 
 	//waitGroupsExample()
 
-	mutexExample()
+	//mutexExample()
+
+	tockenBucketExample()
 }
