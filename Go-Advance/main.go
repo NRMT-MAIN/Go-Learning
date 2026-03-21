@@ -17,5 +17,9 @@ func main() {
 
 	//tockenBucketExample()
 
-	fixWindowCounter()
+	//fixWindowCounter()
+
+	//statefulGoroutine()
+
+	sortingExample()
 }
