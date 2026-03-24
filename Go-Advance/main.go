@@ -21,5 +21,5 @@ func main() {
 
 	//statefulGoroutine()
 
-	sortingExample()
+	//sortingExample()
 }
