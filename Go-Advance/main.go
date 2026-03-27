@@ -23,5 +23,9 @@ func main() {
 
 	//sortingExample()
 
-	osProcessExample()
+	//osProcessExample()
+
+	//signalsExample()
+
+	reflectExample()
 }
