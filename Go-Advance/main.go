@@ -27,5 +27,7 @@ func main() {
 
 	//signalsExample()
 
-	reflectExample()
+	//reflectExample()
+
+	cvpExample()
 }
