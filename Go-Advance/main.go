@@ -29,5 +29,13 @@ func main() {
 
 	//reflectExample()
 
-	cvpExample()
+	//cvpExample()
+
+	//clientExample()
+
+	//sevrerExample()
+
+	//benchmarkExample()
+
+	serialDeserialExample()
 }
